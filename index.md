@@ -58,7 +58,7 @@ sections:
       style: secondary
   - title: Featured
     section_id: lorem-ipsum
-    light_title: true
+    light_title: false
     icon: false
     featured_products: []
     type: featured_products_section
