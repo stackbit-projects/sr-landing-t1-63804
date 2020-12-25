@@ -56,4 +56,10 @@ sections:
       title: Discover
       url: /store
       style: secondary
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    light_title: false
+    icon: false
+    featured_products: []
+    type: featured_products_section
 ---
